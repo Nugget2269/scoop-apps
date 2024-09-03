@@ -1,10 +1,10 @@
 {
-    "version":  "0.8.2",
-    "license":  "GPL-3.0-only",
-    "extract_dir":  "",
-    "homepage":  "https://github.com/Kesomannen/gale",
+    "version": "0.8.4",
+    "license": "GPL-3.0-only",
+    "extract_dir": "",
+    "homepage": "https://github.com/Kesomannen/gale",
     "description": "Lightweight Thunderstore client",
-    "bin":  "gale.exe",
+    "bin": "gale.exe",
     "shortcuts": [
         [
             "Gale",
@@ -13,9 +13,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url":  "https://github.com/Kesomannen/gale/releases/download/0.8.2/Gale_0.8.2_x64_en-US.msi",
-            "hash":  "bde953642401e10811e23a293d4a2c31bd313ff821cb9f6409f6da5847c5b09a"
-
+            "url": "https://github.com/Kesomannen/gale/releases/download/0.8.4/Gale_0.8.4_x64_en-US.msi",
+            "hash": "10d51461bb1e624ed46497bf430e269ee72de8e37d98bfa873f0552ff48061c6"
         }
     },
     "checkver": "github",
