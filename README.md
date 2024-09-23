@@ -5,4 +5,5 @@
 
 ## Packages
 
-- Gale
+- [Gale](https://github.com/Kesomannen/gale)
+- [Superfile](https://github.com/yorukot/superfile)
