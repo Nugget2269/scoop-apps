@@ -1,5 +1,5 @@
 {
-    "version": "1.5.2",
+    "version": "1.5.3",
     "license": "GPL-3.0-only",
     "extract_dir": "",
     "homepage": "https://github.com/Kesomannen/gale",
@@ -13,8 +13,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Kesomannen/gale/releases/download/1.5.2/Gale_1.5.2_x64_en-US.msi",
-            "hash": "ac5cac7e9d11a147c74bcdedd648ed7c63148ba44bbd0b39b46a3496135d2772"
+            "url": "https://github.com/Kesomannen/gale/releases/download/1.5.3/Gale_1.5.3_x64_en-US.msi",
+            "hash": "3ce7ae977efbf1ca3c72114e51532ee05447cef61c1cd4c9dac7b942603683ca"
         }
     },
     "checkver": "github",
